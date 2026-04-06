@@ -4,11 +4,13 @@ Diffusion:
   epoch: 100
   neg_ratio: 1
   n_layers: 2
+  timesteps: 5
   reg_weight: 0.001
   batch_size: 1024
   cbatch_size: 512
   drop_rate: 0.3
   optim: Adam
+  noise: guassian
 
 datasets:
   Amazon:
