@@ -27,3 +27,8 @@ After filtering, execute processing command (with setting `--domains` to specify
 ```{bash}
 python process.py
 ```
+
+Then run:
+```{bash}
+python main.py
+```
