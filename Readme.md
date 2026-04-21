@@ -204,23 +204,6 @@ The model is evaluated using:
 
 ---
 
-## Experimental Results
-
-### Amazon: Movie and Music
-
-| Method | Movie HR | Movie NDCG | Music HR | Music NDCG |
-|-------|----------|------------|----------|------------|
-| CrossAug | 53.06 | 38.94 | 45.09 | 30.82 |
-| DCDXRec | **54.02** | **39.83** | **46.12** | **31.34** |
-
-### Amazon: Cell and Elec
-
-| Method | Cell HR | Cell NDCG | Elec HR | Elec NDCG |
-|-------|---------|-----------|---------|-----------|
-| CrossAug | 34.46 | 22.71 | 34.75 | 22.86 |
-| DCDXRec | **35.27** | **23.26** | **35.13** | **24.41** |
-
----
 
 ## Hyperparameters
 
