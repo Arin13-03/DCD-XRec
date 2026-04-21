@@ -220,15 +220,6 @@ The model is evaluated using:
 | CrossAug | 34.46 | 22.71 | 34.75 | 22.86 |
 | DCDXRec | **35.27** | **23.26** | **35.13** | **24.41** |
 
-### Additional Results
-
-| Dataset Pair | Method | HR | NDCG |
-|-------------|--------|----|------|
-| Book & Movie | CrossAug | 59.27 | 36.54 |
-| Book & Movie | DCDXRec | **61.11** | **38.29** |
-| Book & Music | CrossAug | 60.77 | 38.44 |
-| Book & Music | DCDXRec | **61.37** | **39.81** |
-
 ---
 
 ## Hyperparameters
